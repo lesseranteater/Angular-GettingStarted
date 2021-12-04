@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 div.card-header {
- font-size: large;
+  font-size: large;
 }
 
 div.card {
@@ -12,8 +12,9 @@ div.card {
 }
 
 a {
-  text-decoration: none; 
+  text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }
